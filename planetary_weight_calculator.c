@@ -46,7 +46,7 @@ int main() {
       printf("Your weight on Neptune is: %.2f kg\n", weight * 1.19);
       break;
     case 8:
-      printf("Your weight on Pluto is: %.2f kg\n", weight * 0.0666667);
+      printf("Your weight on Pluto is: %.2f kg\n", weight * 0.07);
       break;             
   }
 }
