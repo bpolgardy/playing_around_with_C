@@ -22,7 +22,6 @@ int main() {
   
   printf("Please enter your choice: ");
   scanf("%d", &choice);
-  //printf("You chose: %d", choice);
 
   switch(choice){
     case 1:
